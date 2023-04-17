@@ -16,11 +16,10 @@
 3 - ربط الإنستجرام
 
 
-## 1. تثبيت القالب {#install}
-# no bad blood {#myid}
-### My Great Heading {#custom-id}
+## 1. تثبيت القالب
 
 
+![install step 1](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step1.png?raw=true)
 
 
 </div>
