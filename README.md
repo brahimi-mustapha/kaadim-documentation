@@ -1,2 +1,6 @@
-# kaadim-documentation
-documentation for the wordpress theme kaadim
+<div dir="rtl">
+
+# قادم
+## كتيب الإستمعال
+
+</div>
