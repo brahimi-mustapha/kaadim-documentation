@@ -1,6 +1,7 @@
-<div align="right">
+<div align="right" dir="auto">
 
 # قادم
+
 قالب ابداعي للمدونات الشخصية
 
 <br>
@@ -9,28 +10,19 @@
 
 <br>
 
+¤ [تثبيت القالب](#تثبيت-القالب)
 
+¤ [اعدادات الخطوط](#إعدادات-خطوط-الموقع)
 
--  [تثبيت القالب](#تثبيت-القالب)
+¤ [الملاحظة العلوية](#الملاحظة-العلوية)
 
+¤ [شعار الموقع](#تغيير-الشعار)
 
--  [اعدادات الخطوط](#إعدادات-خطوط-الموقع)
+¤ [تفعيل السلايدر](#تفعيل-السلايدر)
 
+¤ [ربط الإنستجرام](#ربط-الإنستجرام)
 
--  [الملاحظة العلوية](#الملاحظة-العلوية)
-
-
--  [شعار الموقع](#تغيير-الشعار)
-
-
--  [تفعيل السلايدر](#تفعيل-السلايدر)
-
-
--  [ربط الإنستجرام](#ربط-الإنستجرام)
-
-
--  [السايدبار و الفوتر](#السايدبار-و-الفوتر)
-
+¤ [السايدبار و الفوتر](#السايدبار-و-الفوتر)
 
 <br>
 <br>
@@ -38,7 +30,6 @@
 <br>
 <br>
 <br>
-
 
 ## تثبيت القالب
 
@@ -50,14 +41,12 @@
 <br>
 <br>
 
-
 يتم تحويلك لصفحة بها بعض القوالب أعلى اليمين إضغط على رفع قالب
 
 ![install step 2](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step2.png?raw=true)
 
-أختر ملف `kaadim.zip` الذي يمكنك تحميله 
+أختر ملف `kaadim.zip` الذي يمكنك تحميله
 ثم إضغط على التنصيب الآن
-
 
 ![install step 3](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step3.png?raw=true)
 
@@ -75,7 +64,6 @@
 
 ![install step 8](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step8.png?raw=true)
 
-
 <br>
 <br>
 <br>
@@ -83,14 +71,13 @@
 <br>
 <br>
 
-
-##  إعدادات خطوط الموقع
+## إعدادات خطوط الموقع
 
 توجه الى
 
 `لوحة التحكم > المظهر > تخصيص > إعدادات الخطوط`
 
-### حجم الخط 
+### حجم الخط
 
 يمكنك من خلاله تكبير أو تصغير حجم الخط للموقع بأكمله
 
@@ -98,11 +85,8 @@
 
 يمكنك تغيير الخط المستعمل في العناوين و سمكه ( مكتبة جوجل للخطوط كلها مدعومة )
 
-
 ![font controls](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/font/controls.png?raw=true)
 
-
-
 <br>
 <br>
 <br>
@@ -110,36 +94,33 @@
 <br>
 <br>
 
-
-##  الملاحظة العلوية
+## الملاحظة العلوية
 
 توجه الى
 
 `لوحة التحكم > المظهر > تخصيص > الملاحظة العلوية`
 
- ستجد كل إعدادات الملاحظة العلوي
+ستجد كل إعدادات الملاحظة العلوي
 
-- تشغيل/تعطيل 
+- تشغيل/تعطيل
 - محتوى الملاحظة
 - لون النص و الخلفية
 - إهدادات الخط
 
-
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-
 
 ## تغيير الشعار
 
 توجه الى
 
- `لوحة التحكم > المظهر > تخصيص > هوية الموقع`
- 
-  ستجد كل إعدادات الشعار بما في ذلك 
+`لوحة التحكم > المظهر > تخصيص > هوية الموقع`
+
+ستجد كل إعدادات الشعار بما في ذلك
 
 - شعار الموقع
 - شعار الوضع الليلي
@@ -163,7 +144,6 @@
 
 ![slider guide](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/slider/step1.png?raw=true)
 
-
 <br>
 <br>
 <br>
@@ -173,9 +153,9 @@
 
 ## ربط الإنستجرام
 
-توجه الى لوحة التحكم > تخصيص > ذيل القالب 
+توجه الى لوحة التحكم > تخصيص > ذيل القالب
 
-سيظهر لك حقل إدخال التوكن 
+سيظهر لك حقل إدخال التوكن
 
 إضغط على أنشيء واحدا
 
@@ -184,7 +164,7 @@
 <br>
 
 سيفتح رابط في علامة تبويب جديدة
-قم بالنزول حتى تصل الى 
+قم بالنزول حتى تصل الى
 اضغط على `personal account`
 
 ![instagram token step 2](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/instagram-token/step2.png?raw=true)
@@ -199,7 +179,7 @@
 
 <br>
 
-سيظهر رقم تسلسلي على الشاشة قم بنسخه 
+سيظهر رقم تسلسلي على الشاشة قم بنسخه
 
 ملاحظة : لا تنسخ عبارة `Access token:`
 
@@ -210,8 +190,6 @@
 ثم الصقه هنا
 
 ![instagram token step 5](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/instagram-token/step5.png?raw=true)
-
-
 
 <br>
 <br>
@@ -228,17 +206,13 @@
 
 ستجد الواجهة الآتية
 
-
 ![ad panels](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/ads/panels.png?raw=true)
-
 
 يوجد بكل نوع صفحة إعلانين ( العلوي و السفلي )
 
 لكل اعلان حقلين للكود حقل لكود إعلان الحاسوب و حقل إعلان الموبايل
 
-
 ![ad panels](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/ads/fields.png?raw=true)
-
 
 ## السايدبار و الفوتر
 
@@ -248,12 +222,8 @@
 
 [مزيد من المعلومات](https://kinsta.com/blog/wordpress-widgets/#how-to-use-the-wordpress-customizer-to-add-widgets)
 
-
-
 ---
 
-
 هذا كل شيء شكرا :)
-
 
 </div>
