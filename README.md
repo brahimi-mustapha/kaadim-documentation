@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div align="right">
 
 # قادم
 قالب ابداعي للمدونات الشخصية
@@ -211,7 +211,6 @@
 
 ![instagram token step 5](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/instagram-token/step5.png?raw=true)
 
-</div>
 
 
 <br>
@@ -256,3 +255,5 @@
 
 هذا كل شيء شكرا :)
 
+
+</div>
