@@ -36,35 +36,35 @@
 توجه الى لوحة التحكم > المظهر > قوالب
 ثم إضغط على اضافة المزيد
 
-![install step 1](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step1.png?raw=true)
+![install step 1](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/install/step1.png?raw=true)
 
 <br>
 <br>
 
 يتم تحويلك لصفحة بها بعض القوالب أعلى اليمين إضغط على رفع قالب
 
-![install step 2](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step2.png?raw=true)
+![install step 2](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/install/step2.png?raw=true)
 
-أختر ملف `kaadim.zip` الذي يمكنك تحميله
+أختر ملف `rouh.zip` الذي يمكنك تحميله
 ثم إضغط على التنصيب الآن
 
-![install step 3](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step3.png?raw=true)
+![install step 3](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/install/step3.png?raw=true)
 
 ثم إضغط على تفعيل
 
-![install step 4](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step4.png?raw=true)
+![install step 4](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/install/step4.png?raw=true)
 
 الآن نقوم بتثبيت الإضافات الازمة كما هو موضح في الصور
 
-![install step 5](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step5.png?raw=true)
+![install step 5](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/install/step5.png?raw=true)
 
-![install step 6](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step6.png?raw=true)
+![install step 6](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/install/step6.png?raw=true)
 
-![install step 7](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step7.png?raw=true)
+![install step 7](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/install/step7.png?raw=true)
 
-![install step 8](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/install/step8.png?raw=true)
+![install step 8](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/install/step8.png?raw=true)
 
-<br>
+<br> 
 <br>
 <br>
 <br>
@@ -85,7 +85,7 @@
 
 يمكنك تغيير الخط المستعمل في العناوين و سمكه ( مكتبة جوجل للخطوط كلها مدعومة )
 
-![font controls](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/font/controls.png?raw=true)
+![font controls](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/font/controls.png?raw=true)
 
 <br>
 <br>
@@ -142,7 +142,7 @@
 
 ملاحظة : على الأقل يجب أن تتضمن التصنيفات المختارة 5 مقالات حتى يظهر السلادير
 
-![slider guide](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/slider/step1.png?raw=true)
+![slider guide](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/slider/step1.png?raw=true)
 
 <br>
 <br>
@@ -159,7 +159,7 @@
 
 إضغط على أنشيء واحدا
 
-![instagram token step 1](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/instagram-token/step1.png?raw=true)
+![instagram token step 1](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/instagram-token/step1.png?raw=true)
 
 <br>
 
@@ -167,7 +167,7 @@
 قم بالنزول حتى تصل الى
 اضغط على `personal account`
 
-![instagram token step 2](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/instagram-token/step2.png?raw=true)
+![instagram token step 2](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/instagram-token/step2.png?raw=true)
 
 <br>
 
@@ -175,7 +175,7 @@
 
 اضعط على `allow`
 
-![instagram token step 3](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/instagram-token/step3.png?raw=true)
+![instagram token step 3](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/instagram-token/step3.png?raw=true)
 
 <br>
 
@@ -183,13 +183,13 @@
 
 ملاحظة : لا تنسخ عبارة `Access token:`
 
-![instagram token step 4](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/instagram-token/step4.png?raw=true)
+![instagram token step 4](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/instagram-token/step4.png?raw=true)
 
 <br>
 
 ثم الصقه هنا
 
-![instagram token step 5](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/instagram-token/step5.png?raw=true)
+![instagram token step 5](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/instagram-token/step5.png?raw=true)
 
 <br>
 <br>
@@ -206,13 +206,13 @@
 
 ستجد الواجهة الآتية
 
-![ad panels](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/ads/panels.png?raw=true)
+![ad panels](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/ads/panels.png?raw=true)
 
 يوجد بكل نوع صفحة إعلانين ( العلوي و السفلي )
 
 لكل اعلان حقلين للكود حقل لكود إعلان الحاسوب و حقل إعلان الموبايل
 
-![ad panels](https://github.com/brahimi-mustapha/kaadim-documentation/blob/main/ads/fields.png?raw=true)
+![ad panels](https://github.com/brahimi-mustapha/rouh-documentation/blob/main/ads/fields.png?raw=true)
 
 ## السايدبار و الفوتر
 
